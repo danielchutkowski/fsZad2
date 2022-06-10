@@ -16,3 +16,5 @@ Link do aplikacji: http://fszad2-env.eba-pdbwp5hk.us-east-1.elasticbeanstalk.com
 ![image](https://user-images.githubusercontent.com/105118105/172679045-baf86c0c-261d-4ac4-9bb0-92e783f0493e.png)
 
 ![image](https://user-images.githubusercontent.com/105118105/173089027-3121fdaf-6389-4f26-b45f-76ed72ad5d24.png)
+
+![image](https://user-images.githubusercontent.com/105118105/173089175-39f27778-34f4-4c8b-8629-9b7cb36ef398.png)
