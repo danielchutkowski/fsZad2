@@ -1,5 +1,7 @@
 # Zadanie2
 
+Link do aplikacji: http://fszad2-env.eba-pdbwp5hk.us-east-1.elasticbeanstalk.com/
+
 ![image](https://user-images.githubusercontent.com/105118105/172669834-a83cd41c-bea0-4e13-b77e-38848e851298.png)
 
 ![image](https://user-images.githubusercontent.com/105118105/172669924-21e002fa-2574-415a-9d1b-fa94ba3ab9c6.png)
